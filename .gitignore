@@ -39,7 +39,7 @@ out/
 .vscode/
 
 ### application.properties ###
-application.properties
-!log4jdbc.log4j2.properties
+*.properties
+# log4jdbc.log4j2.properties
 
 ##test 0101
